@@ -10,9 +10,9 @@ The primary goal of this project is to create a robust dog breed classification 
 
 here is few example of the prediction.
 
-![Alt text](asset\prediction1.JPG "Optional title")
-![Alt text](asset\prediction2.JPG "Optional title")
-![Alt text](asset\prediction3.JPG "Optional title")
+![Alt text](asset/prediction1.JPG "Optional title")
+![Alt text](asset/prediction2.JPG "Optional title")
+![Alt text](asset/prediction3.JPG "Optional title")
 
 ## Directly load the model and testing it
 you can use Dog_prediction_test.ipynb to load model directly which is pre trained so you dont have to do training you can test the model. this model only support 113 breeds of Dog 
