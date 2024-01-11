@@ -4,19 +4,6 @@
 
 The Dog Breed Classification Project is an image classification project that utilizes deep learning techniques to identify and classify different dog breeds. The project employs the ResNet50 model for initial predictions and fine-tunes a MobileNetV2 model for transfer learning. This README provides a comprehensive guide to understanding, installing, and running the project.
 
-## Description
-
-The primary goal of this project is to create a robust dog breed classification system using deep learning techniques. The models are trained on a dataset of dog images, and the project aims to achieve accurate predictions for a diverse set of dog breeds.
-
-here is few example of the prediction.
-
-![Alt text](asset/prediction1.JPG "Optional title")
-![Alt text](asset/prediction2.JPG "Optional title")
-![Alt text](asset/prediction3.JPG "Optional title")
-
-## Directly load the model and testing it
-you can use Dog_prediction_test.ipynb to load model directly which is pre trained so you dont have to do training you can test the model. this model only support 113 breeds of Dog 
-
 ## Use Case
 
 ### The Dog Identifier
@@ -43,6 +30,19 @@ Explore the Dog Identifier on its dedicated webpage: [The Dog Identifier](https:
 The Dog Identifier boasts an accuracy rate of over 85%, providing users with a trustworthy and efficient solution for dog breed identification.
 
 Explore The Dog Identifier now: [The Dog Identifier](https://thedogidentifier.com/)
+
+## Description
+
+The primary goal of this project is to create a robust dog breed classification system using deep learning techniques. The models are trained on a dataset of dog images, and the project aims to achieve accurate predictions for a diverse set of dog breeds.
+
+here is few example of the prediction.
+
+![Alt text](asset/prediction1.JPG "Optional title")
+![Alt text](asset/prediction2.JPG "Optional title")
+![Alt text](asset/prediction3.JPG "Optional title")
+
+## Directly load the model and testing it
+you can use Dog_prediction_test.ipynb to load model directly which is pre trained so you dont have to do training you can test the model. this model only support 113 breeds of Dog 
 
 
 ## Contact us
